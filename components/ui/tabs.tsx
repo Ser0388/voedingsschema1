@@ -1,3 +1,4 @@
+import * as React from "react";
 import { useState } from "react";
 
 export function Tabs({ children, defaultValue, onValueChange }: any) {
