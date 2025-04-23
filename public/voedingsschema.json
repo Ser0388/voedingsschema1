@@ -1,0 +1,6659 @@
+{
+  "Week 1": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    }
+  ],
+  "Week 2": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 240,
+          "eiwit": 18,
+          "vet": 12,
+          "khd": 15
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 360,
+          "eiwit": 27,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 120,
+          "eiwit": 9,
+          "vet": 6,
+          "khd": 8
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 180,
+          "eiwit": 14,
+          "vet": 9,
+          "khd": 11
+        }
+      ]
+    }
+  ],
+  "Week 3": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    }
+  ],
+  "Week 4": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    }
+  ],
+  "Week 5": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    }
+  ],
+  "Week 6": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 280,
+          "eiwit": 21,
+          "vet": 14,
+          "khd": 18
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 350,
+          "eiwit": 26,
+          "vet": 18,
+          "khd": 22
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 420,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 26
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 140,
+          "eiwit": 10,
+          "vet": 7,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 210,
+          "eiwit": 16,
+          "vet": 10,
+          "khd": 13
+        }
+      ]
+    }
+  ],
+  "Week 7": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 375,
+          "eiwit": 28,
+          "vet": 19,
+          "khd": 23
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 450,
+          "eiwit": 34,
+          "vet": 22,
+          "khd": 28
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 150,
+          "eiwit": 11,
+          "vet": 8,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 225,
+          "eiwit": 17,
+          "vet": 11,
+          "khd": 14
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 375,
+          "eiwit": 28,
+          "vet": 19,
+          "khd": 23
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 450,
+          "eiwit": 34,
+          "vet": 22,
+          "khd": 28
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 150,
+          "eiwit": 11,
+          "vet": 8,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 225,
+          "eiwit": 17,
+          "vet": 11,
+          "khd": 14
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 375,
+          "eiwit": 28,
+          "vet": 19,
+          "khd": 23
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 450,
+          "eiwit": 34,
+          "vet": 22,
+          "khd": 28
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 150,
+          "eiwit": 11,
+          "vet": 8,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 225,
+          "eiwit": 17,
+          "vet": 11,
+          "khd": 14
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 375,
+          "eiwit": 28,
+          "vet": 19,
+          "khd": 23
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 450,
+          "eiwit": 34,
+          "vet": 22,
+          "khd": 28
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 150,
+          "eiwit": 11,
+          "vet": 8,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 225,
+          "eiwit": 17,
+          "vet": 11,
+          "khd": 14
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 375,
+          "eiwit": 28,
+          "vet": 19,
+          "khd": 23
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 450,
+          "eiwit": 34,
+          "vet": 22,
+          "khd": 28
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 150,
+          "eiwit": 11,
+          "vet": 8,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 225,
+          "eiwit": 17,
+          "vet": 11,
+          "khd": 14
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 375,
+          "eiwit": 28,
+          "vet": 19,
+          "khd": 23
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 450,
+          "eiwit": 34,
+          "vet": 22,
+          "khd": 28
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 150,
+          "eiwit": 11,
+          "vet": 8,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 225,
+          "eiwit": 17,
+          "vet": 11,
+          "khd": 14
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 300,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 19
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 375,
+          "eiwit": 28,
+          "vet": 19,
+          "khd": 23
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 450,
+          "eiwit": 34,
+          "vet": 22,
+          "khd": 28
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 150,
+          "eiwit": 11,
+          "vet": 8,
+          "khd": 9
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 225,
+          "eiwit": 17,
+          "vet": 11,
+          "khd": 14
+        }
+      ]
+    }
+  ],
+  "Week 8": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    }
+  ],
+  "Week 9": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    }
+  ],
+  "Week 10": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    }
+  ],
+  "Week 11": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    }
+  ],
+  "Week 12": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 340,
+          "eiwit": 26,
+          "vet": 17,
+          "khd": 21
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 425,
+          "eiwit": 32,
+          "vet": 21,
+          "khd": 27
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 510,
+          "eiwit": 38,
+          "vet": 26,
+          "khd": 32
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 170,
+          "eiwit": 13,
+          "vet": 8,
+          "khd": 11
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 255,
+          "eiwit": 19,
+          "vet": 13,
+          "khd": 16
+        }
+      ]
+    }
+  ],
+  "Week 13": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    }
+  ],
+  "Week 14": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    }
+  ],
+  "Week 15": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    }
+  ],
+  "Week 16": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    }
+  ],
+  "Week 17": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    }
+  ],
+  "Week 18": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    }
+  ],
+  "Week 19": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    }
+  ],
+  "Week 20": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    }
+  ],
+  "Week 21": [
+    {
+      "dag": "Maandag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Menemen",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Tonijnsalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Tavuk şiş",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Komkommer met hummus",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Shake met eiwitpoeder",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Dinsdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Omelet met champignons",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Courgettesoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Zalm met bloemkoolpuree",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Gekookt ei met paprika",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Yoghurt met hennepzaad",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Woensdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Griekse yoghurt met walnoten",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Gevulde avocado",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Spinazie met ei",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Notenmix",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kipreepjes met paprika",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Donderdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Chia pudding",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ezogelinsoep",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Karnıyarık zonder rijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Olijven en feta",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Smoothie met blauwe bessen",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Vrijdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Çılbır (eieren in yoghurt)",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Salade met feta en olijven",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Courgetti met kip",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Selderij met pindakaas",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Cottage cheese met noten",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zaterdag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Kaasomelet",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Kip dürüm (low-carb wrap)",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Kip met bloemkoolrijst",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Griekse yoghurt met kaneel",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Kalkoenreepjes met komkommer",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    },
+    {
+      "dag": "Zondag",
+      "maaltijden": [
+        {
+          "type": "Ontbijt",
+          "gerecht": "Eiwitrijke smoothiebowl",
+          "kcal": 390,
+          "eiwit": 29,
+          "vet": 20,
+          "khd": 24
+        },
+        {
+          "type": "Lunch",
+          "gerecht": "Ei-avocadosalade",
+          "kcal": 488,
+          "eiwit": 37,
+          "vet": 24,
+          "khd": 30
+        },
+        {
+          "type": "Diner",
+          "gerecht": "Groenteschotel uit de oven",
+          "kcal": 585,
+          "eiwit": 44,
+          "vet": 29,
+          "khd": 37
+        },
+        {
+          "type": "Snack",
+          "gerecht": "Cherry tomaatjes en kaasblokjes",
+          "kcal": 195,
+          "eiwit": 15,
+          "vet": 10,
+          "khd": 12
+        },
+        {
+          "type": "Post-training",
+          "gerecht": "Proteïne-omelet",
+          "kcal": 292,
+          "eiwit": 22,
+          "vet": 15,
+          "khd": 18
+        }
+      ]
+    }
+  ]
+}
